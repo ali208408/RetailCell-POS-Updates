@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.7",
-    "notes":  "Update RetailCell icon and logo with the new design.",
+    "version":  "1.0.8",
+    "notes":  "Fix technical support phone number direction on login and dashboard.",
     "pub_date":  "2026-06-05T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djNaUjVHeXJtSmllcm9aTFFmQ0Y0bVkxaUl0RmpZb2dyS1IxZ3d6bGIyM3lmQXArVFpaNjBuY2J1Ly9BTWltODZaNlNqZjNEZWlZSTlZejZhbkRjcFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjY5OTgwCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjdfeDY0LXNldHVwLmV4ZQp1eWUrZjFpRWpHTlpUa0p2YU5PUUJUYnZ4Z2RiMjM5RmEvN0J6a0ZmWW4vc1BCcUloMk5OMk9zQVJEUEZHYThVaFFVRG5sRENpcklOMUZ6akdiNWVDZz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205dnlYRHpTYjY4Z3Bqd3RiTWorWEN1YTBkQktDaHUrcVNidEpLMmtmRzhOMWlsb1pkMTVseHNCVkt2VVJRL2pMV0RDdXB5bjVNSkZ6ODJXLzJYOVZ0OWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjcyOTkyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjhfeDY0LXNldHVwLmV4ZQpKUU1uRlZ0VlVublhRMVFZS3VkNEVDaFplVnpObk5Uc2dpanVBT1FsbjVmbHkrQ0NFTFFqTkVkWUlzRHBPUnVPOVFYY1czNGlWUjFLNTByRzRwZVlBUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.8_x64-setup.exe"
                                          }
                   }
 }
