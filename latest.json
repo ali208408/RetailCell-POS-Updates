@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.6",
-    "notes":  "Show current version on login and dashboard.",
+    "version":  "1.0.7",
+    "notes":  "Update RetailCell icon and logo with the new design.",
     "pub_date":  "2026-06-05T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djRESVJITnpsTUh0L2FkR1YvbU9mamU0QnFrVmtaWWJFdGVUMmtFUzByN2hteCtmRU5NVFVwMU9wWVZvUE5HMi93Wi9PRUpjY2c1ZnZRRWQySWpOZWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjY2ODg4CWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjZfeDY0LXNldHVwLmV4ZQpqUXJ4dGZteGxFK0tJREhESTFLZDVIc09KQ1VRc1JKRS94V1Rwa1Y0OTdtMllLeWEvQ3ZHY3hkQlFNWkNHNEE3VnAyY1VqbWE5VEpNZ1k1L2xiVnZEQT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djNaUjVHeXJtSmllcm9aTFFmQ0Y0bVkxaUl0RmpZb2dyS1IxZ3d6bGIyM3lmQXArVFpaNjBuY2J1Ly9BTWltODZaNlNqZjNEZWlZSTlZejZhbkRjcFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjY5OTgwCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjdfeDY0LXNldHVwLmV4ZQp1eWUrZjFpRWpHTlpUa0p2YU5PUUJUYnZ4Z2RiMjM5RmEvN0J6a0ZmWW4vc1BCcUloMk5OMk9zQVJEUEZHYThVaFFVRG5sRENpcklOMUZ6akdiNWVDZz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.7_x64-setup.exe"
                                          }
                   }
 }
