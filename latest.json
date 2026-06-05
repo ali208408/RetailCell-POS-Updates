@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.12",
-    "notes":  "Use English customizer name and phone number with white highlight styling.",
+    "version":  "1.0.13",
+    "notes":  "Remove test update label and add user confirmation before installing future updates.",
     "pub_date":  "2026-06-06T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djZvaC9mUVBOVW1lSU5BM2dac2VrUnZFcm9KWFF5ZFFVbVNOTGJZRCt3RjRVZ2x4Y0xrZkVKeEtOZEFjU2FjanJIUklvTms4RVQzNWhWWkRCOEtmbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjk5MDY3CWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjEyX3g2NC1zZXR1cC5leGUKTEw0bUoxK2Vsb09iOWpteG9vdW5HTTVIRHBnQXdOQWhHSW1jdEQ4TFBFaEI5OFlSM0h6VlJmaGMyQThSRm9qb1A4Zmh1QmwwL01kTHJacGdQVGhxRHc9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djhldXdRQVZacW5lWVNEQ1pQbDVSbFZqd3VUY0VtaWMyQzAwWUhKZm91ZWRFL1lveHZIditKcWdBUXgwL2tkM1JZSkxySFRETW5IK1RaMkVnZVVEWlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzAwNTcxCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjEzX3g2NC1zZXR1cC5leGUKalY4RW9Icis2NllHSUFCOE5SUDZmWXRrOStLNlVDbnM1MnArYVAvOXlJc0NWaG1LMWZXb25UaUdUdG1XY0tMbDU3NnVRdWNqcFozQmE2a0ZTYTlZQ2c9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.13_x64-setup.exe"
                                          }
                   }
 }
