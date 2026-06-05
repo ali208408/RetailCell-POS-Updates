@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.2",
-    "notes":  "Added selectable backup folder path.",
+    "version":  "1.0.3",
+    "notes":  "Dummy updater test release.",
     "pub_date":  "2026-06-05T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djNya3BYQUxCUzVValRYTGRKVElRSkZhNnFQUlhyUHh1a2tsVXBIU0xNM3hEZ1d0aUxRM2RQTEJ5Tld4YjI5VVpPYU1zbmQzK3ovR2ZBT3R3ZkFaY3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjYzMTIyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjJfeDY0LXNldHVwLmV4ZQoreHl5dkRaVS8xR2N0Mmk1aXd1MWhHSXRIeXV1RE5yZ1BtTzJKc0MwK3JnbGRpaUZUNFBNemFKbFNIaDZURldwODREbENQbklicjhWTG8zc0NKVTVCUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205dnhsV0FQc0JFMzQ2S09NR3k0RGs3SFJYNUtESnZWaUhVK2xWR2dQRUFvVG1LQUdUYlhJZnc2VzJ5OTYrK3BEcENON21ZWUt0OTlzaXd0WllQQ0VybFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjY0MDUyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjNfeDY0LXNldHVwLmV4ZQpGZndKbjc5bThrclczWXVmY2lMZlNFUnNGOU1VM0JzT2NNWnJVMkdkc0xmb1MxTXJ5bUpoNGg0TFhyMEwySnNCakloaThIeGpuOXQrMVhDa0J5S1VEdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.3_x64-setup.exe"
                                          }
                   }
 }
