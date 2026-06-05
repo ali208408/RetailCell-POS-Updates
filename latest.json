@@ -1,0 +1,11 @@
+﻿{
+    "version":  "1.0.1",
+    "notes":  "RetailCell POS updater-enabled release.",
+    "pub_date":  "2026-06-05T00:00:00Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djlsTmdnd2ZFZVJwRkRHcWQ2R1htR0ZKcGRQQ3VSRVQ1eXNGRzJudEI1WVpWUDRUTWFyUDBUNFZhN0dONi8xMWl0NXZhbWVnZTJLMWNzYWFUbHVGOFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjYxOTkxCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjFfeDY0LXNldHVwLmV4ZQpKemgxSzhOR1Q5dFJ2VjJyM09Xb2Z4eFA4U0grME1LcktYdWRSRUJLVXcrcXpwbXd2QWVla2pTdzhpNGpxVS9zSXkvaFp5dFRXVUN5emZmcFZVUGlEUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.1_x64-setup.exe"
+                                         }
+                  }
+}
