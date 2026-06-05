@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.8",
-    "notes":  "Fix technical support phone number direction on login and dashboard.",
+    "version":  "1.0.10",
+    "notes":  "Save backups with day, date, and time; keep the latest 20 backups and remove the oldest automatically.",
     "pub_date":  "2026-06-05T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205dnlYRHpTYjY4Z3Bqd3RiTWorWEN1YTBkQktDaHUrcVNidEpLMmtmRzhOMWlsb1pkMTVseHNCVkt2VVJRL2pMV0RDdXB5bjVNSkZ6ODJXLzJYOVZ0OWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjcyOTkyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjhfeDY0LXNldHVwLmV4ZQpKUU1uRlZ0VlVublhRMVFZS3VkNEVDaFplVnpObk5Uc2dpanVBT1FsbjVmbHkrQ0NFTFFqTkVkWUlzRHBPUnVPOVFYY1czNGlWUjFLNTByRzRwZVlBUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djZFY1JFZ3JiSDlVUE9pTmpjTU9UQ215Wld5UThaUTA0M2xyQVpJa0JHYng2QnZBR1RzS3hOY25paVJyTWt0MCtzU0x2ald6RXZoTlNucUkzWVFyWWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjgyNDAyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjEwX3g2NC1zZXR1cC5leGUKei9QYzlZbk1ZSmpaTDR6UEdwRkQ3bkxTdjVSV05PK3JCTzZsZlU3SE9qWk5wM1hpU1ZBaWpSd3JLVkRxblVJWXVkTDZOTkVIZlJZcEVzQUxUMmFORFE9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.10_x64-setup.exe"
                                          }
                   }
 }
