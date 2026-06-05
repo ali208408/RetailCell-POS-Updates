@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.3",
-    "notes":  "Dummy updater test release.",
+    "version":  "1.0.4",
+    "notes":  "Added Ali Elsherbiny powered by and support text on dashboard.",
     "pub_date":  "2026-06-05T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205dnhsV0FQc0JFMzQ2S09NR3k0RGs3SFJYNUtESnZWaUhVK2xWR2dQRUFvVG1LQUdUYlhJZnc2VzJ5OTYrK3BEcENON21ZWUt0OTlzaXd0WllQQ0VybFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjY0MDUyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjNfeDY0LXNldHVwLmV4ZQpGZndKbjc5bThrclczWXVmY2lMZlNFUnNGOU1VM0JzT2NNWnJVMkdkc0xmb1MxTXJ5bUpoNGg0TFhyMEwySnNCakloaThIeGpuOXQrMVhDa0J5S1VEdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djNYSS8yTWZRZmxCRDRMQWlLcXM4Y01WYXBXekczR0pUc0I0S3dlcjJ5aS9JYXhqckttLzBJeXJWdFBKOHordVhwV3QyZlVrOERDNWplL3A3MFZiOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjY0ODIyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjRfeDY0LXNldHVwLmV4ZQo1S1ROcytFd3NValNyU290cXB3MUpnRkNRUVNkNjZMODBMTW1jUkwySGhNSDU4QzBtOVZKc21KQXVKd2VidWNQUjI5ZXdHbHk1TEVoOGgxcWY1RFVCUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.4_x64-setup.exe"
                                          }
                   }
 }
