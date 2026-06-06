@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.13",
-    "notes":  "Remove test update label and add user confirmation before installing future updates.",
+    "version":  "1.0.14",
+    "notes":  "Update RetailCell logo and Windows application icon with the new image.",
     "pub_date":  "2026-06-06T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djhldXdRQVZacW5lWVNEQ1pQbDVSbFZqd3VUY0VtaWMyQzAwWUhKZm91ZWRFL1lveHZIditKcWdBUXgwL2tkM1JZSkxySFRETW5IK1RaMkVnZVVEWlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzAwNTcxCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjEzX3g2NC1zZXR1cC5leGUKalY4RW9Icis2NllHSUFCOE5SUDZmWXRrOStLNlVDbnM1MnArYVAvOXlJc0NWaG1LMWZXb25UaUdUdG1XY0tMbDU3NnVRdWNqcFozQmE2a0ZTYTlZQ2c9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.13_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205di83TnBUZVoyUGR6UE1yTU5ZSE9laGp0VmpEUE5VV3d1NHlRV3dhSWloeTRjckk0RlZWbHUwRWhGUTVmaVYvb1V6cDZrNGRkdERtcTdrYVJoanlaYUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzA0MDQ0CWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE0X3g2NC1zZXR1cC5leGUKcXF5NTk0c2k3MTBIeDhwOC9yamlCWHZJdWRDMnJlTFN2bkVxZE1xTk5yUlYySlByZ1Zabjh5RjdKdFhKNVM4eWZqQjlhb3ltRnh6WE94eTcvOGt4QVE9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.14_x64-setup.exe"
                                          }
                   }
 }
