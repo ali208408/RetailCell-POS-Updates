@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.15",
-    "notes":  "Fix serial enforcement, cash split accounting, archived maintenance deletion, supplier debt deletion guard, maintenance returns, and startup storage check.",
+    "version":  "1.0.16",
+    "notes":  "Show serial input when adding phones and allow editing phone serials in inventory products.",
     "pub_date":  "2026-06-06T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djdRaFB0dWxrMGJ5dy9QU0ZLUEVGem82Ym5Edy9tSE9zK3pCUGorUFpxeXJRUFNFY1JpVHp6d1NWTDcrUlZzSnUxNFlDZjZBdjZKL1ZDMzJyWTF1WGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzA2MzgxCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE1X3g2NC1zZXR1cC5leGUKVTlFcVJjQlRkaXV4ODRERWk0SUtmR2k1Y0E2aktJL0VqQzFQOG1iUWdzbG00a2pVZDYwS09iYmdMbGNXMU5waXVYVG5kbDJwRjA3THZFRkZsMmQwQ3c9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.15_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djBDekpuYXFIV3VqUkFGYWozVzQ2RTRlWTBLaHd5ZGpCbFBWdER3dzdvMHdvc2E2a0luNDhraGhkVXNsVEdCT0F0NHU1dXF6VjZReG5BWi9JeWhhT1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzM3NzQ0CWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE2X3g2NC1zZXR1cC5leGUKc0R2cGoybGk4bnJGWkJBaVhqemVtczBLMGY3d25hZTBRTFRKdVlCWDlqa1hqMERxaFFYVWtXMlY5VU5LWHQ4cEYvL2dUWTdlZ0JITXBEVU14Y0dmQUE9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.16_x64-setup.exe"
                                          }
                   }
 }
