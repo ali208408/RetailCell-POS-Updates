@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.17",
-    "notes":  "Fix save stack overflow/data persistence and use current shop name from settings in print receipts, maintenance receipts, reports, and close-day print.",
+    "version":  "1.0.18",
+    "notes":  "Critical fix: version display fallback and reliable backup restore persistence. Imported backups are now saved immediately to AppData before success is shown, with stronger app-data file replacement.",
     "pub_date":  "2026-06-11T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djZWbVl5RVR4c2F1RXRaWjV0TjJNYy9jL0RzS1ErUWZpZlJlVElEanZMYXM4NEVQTG9RYXZ4NW9nMEhRbU1pNmw3QS80UVAzVERjUDJ0MGZWRHNIdFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTkyMjEyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE3X3g2NC1zZXR1cC5leGUKTWtPUFZYQ2lONEJnZWk3K3J0K3UxK3NvOExkQjN4UEFnS2lhbGw0R3VkYW1QaW5TZk42S2diaURHMWFhK09MeHVWc1J2QUJFcVdGWnluWDFXNjZzQ0E9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.17_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djNmTlJUWmhHalduMjBSMXAzM2VLVzNxZWovcnU1RTBpWXNaVWI0M0pBNVBtSGc3V0tDeHhYa3pqS0JaT1ZMQzI2VUlWUWoyS2FBZjlsMEJreU5CdUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA1OTc2CWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE4X3g2NC1zZXR1cC5leGUKVTZPZnBiakhjUmsvWVlHaFdxVVprTkptRmp3a1Z0OUs5aFh2TzNqTXgxNUJxWUoxeG5JZzlwQ1R1c0E4WTFLTW5iM2FtSkUrdTJ2b3oyK2pXaXpLQ0E9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.18_x64-setup.exe"
                                          }
                   }
 }
