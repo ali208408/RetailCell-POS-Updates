@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.16",
-    "notes":  "Show serial input when adding phones and allow editing phone serials in inventory products.",
-    "pub_date":  "2026-06-06T00:00:00Z",
+    "version":  "1.0.17",
+    "notes":  "Fix save stack overflow/data persistence and use current shop name from settings in print receipts, maintenance receipts, reports, and close-day print.",
+    "pub_date":  "2026-06-11T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djBDekpuYXFIV3VqUkFGYWozVzQ2RTRlWTBLaHd5ZGpCbFBWdER3dzdvMHdvc2E2a0luNDhraGhkVXNsVEdCT0F0NHU1dXF6VjZReG5BWi9JeWhhT1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzM3NzQ0CWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE2X3g2NC1zZXR1cC5leGUKc0R2cGoybGk4bnJGWkJBaVhqemVtczBLMGY3d25hZTBRTFRKdVlCWDlqa1hqMERxaFFYVWtXMlY5VU5LWHQ4cEYvL2dUWTdlZ0JITXBEVU14Y0dmQUE9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.16_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djZWbVl5RVR4c2F1RXRaWjV0TjJNYy9jL0RzS1ErUWZpZlJlVElEanZMYXM4NEVQTG9RYXZ4NW9nMEhRbU1pNmw3QS80UVAzVERjUDJ0MGZWRHNIdFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTkyMjEyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE3X3g2NC1zZXR1cC5leGUKTWtPUFZYQ2lONEJnZWk3K3J0K3UxK3NvOExkQjN4UEFnS2lhbGw0R3VkYW1QaW5TZk42S2diaURHMWFhK09MeHVWc1J2QUJFcVdGWnluWDFXNjZzQ0E9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.17_x64-setup.exe"
                                          }
                   }
 }
