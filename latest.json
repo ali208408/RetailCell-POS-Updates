@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.18",
-    "notes":  "Critical fix: version display fallback and reliable backup restore persistence. Imported backups are now saved immediately to AppData before success is shown, with stronger app-data file replacement.",
-    "pub_date":  "2026-06-11T00:00:00Z",
+    "version":  "1.0.19",
+    "notes":  "Final persistence fix: valid local/restored data with an old or mismatched hash is repaired instead of blocked, and logout waits for a confirmed save before leaving the session.",
+    "pub_date":  "2026-06-12T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djNmTlJUWmhHalduMjBSMXAzM2VLVzNxZWovcnU1RTBpWXNaVWI0M0pBNVBtSGc3V0tDeHhYa3pqS0JaT1ZMQzI2VUlWUWoyS2FBZjlsMEJreU5CdUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA1OTc2CWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE4X3g2NC1zZXR1cC5leGUKVTZPZnBiakhjUmsvWVlHaFdxVVprTkptRmp3a1Z0OUs5aFh2TzNqTXgxNUJxWUoxeG5JZzlwQ1R1c0E4WTFLTW5iM2FtSkUrdTJ2b3oyK2pXaXpLQ0E9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.18_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNnJaNTdYc205djhaeUZJMmc1NFkrTUEvdU02WjZyQzBOQ2U1b01sSmxVaGIxcDhVNytsZDVZU0hnU3d3NFc4QWtTV3JTVFZXelZtbnhsTE1nQXl3YnE3V0lhYkVZbVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjI1NDUyCWZpbGU6UmV0YWlsQ2VsbCBQT1NfMS4wLjE5X3g2NC1zZXR1cC5leGUKOVlLNnFUZE40Y0M2SGZIMm8zTCtxVlAyQkUvTHNENHR3UExkeWhzWmV5YmZ5SWlTbFZScXpVM0VEdFZGT0l3WjJVVkdnRUw5QnZuR3hOVlk0VTFZQnc9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/ali208408/RetailCell-POS-Updates/main/RetailCell%20POS_1.0.19_x64-setup.exe"
                                          }
                   }
 }
